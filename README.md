@@ -31,4 +31,4 @@ curl http://localhost:3000
 # test job
 
 # Pruebas de Pipeline
-Prueba para validar la ejecucion automatica del webhook!!!!
+Prueba para validar la ejecucion automatica del Webhook!!
