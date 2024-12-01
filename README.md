@@ -31,9 +31,4 @@ curl http://localhost:3000
 # test job
 
 # Pruebas de Pipeline
-<<<<<<< HEAD
-Esta es una prueba2
-Prueba final de webhook y pipeline en Jenkins
-=======
-Cambios realizados para probar el pipeline23
->>>>>>> 3ce3c3e379ae3a8217bd68511677db2a82d78207
+Prueba para validar la ejecucion automatica del webhook!!!
